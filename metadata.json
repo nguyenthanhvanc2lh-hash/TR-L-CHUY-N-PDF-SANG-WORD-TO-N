@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Toán Học THCS",
+  "description": "Một ứng dụng web giúp giải chi tiết các bài toán cấp 2 (lớp 6-9) từ file ảnh, word, hoặc pdf. Ứng dụng cũng có thể tạo ra các bài toán tương tự và đưa ra lời giải cho chúng.",
+  "requestFramePermissions": []
+}
